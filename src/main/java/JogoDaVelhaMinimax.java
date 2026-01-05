@@ -1,7 +1,7 @@
 import jogos.*;
 import java.util.Scanner;
 
-public class OOex2JogoDaVelhaColecoes {
+public class JogoDaVelhaMinimax {
 
     public static void main(String[] args) 
     {
