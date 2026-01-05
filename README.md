@@ -40,7 +40,7 @@ Isso gerará um arquivo JAR executável na pasta `target/`.
 ### Execução
 
 ```bash
-java -jar target/OOex2JogoDaVelhaColecoes-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar target/JogoDaVelhaMinimax-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 ### Como Jogar
